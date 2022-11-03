@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>First HTML program</title>
+</head>
+<body>
+<p id="demo">
+
+</p>
+</body>
+<button type="button" onclick="document.getElementById('demo').innerHTML="<h1>Welcome to IT</h1>" ">Click me</button>
+
+</html>
